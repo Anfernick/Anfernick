@@ -51,7 +51,7 @@
 <a href="" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="kaveendinethma1109" height="50" width="50" /></a>
 <a href="http://www.linkedin.com/in/anfernick-65091a251" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kaveendinethma" height="50" width="50" /></a>
 <a href="https://stackoverflow.com/users/23510968/anfernick-bangarre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kaveen-dinethma" height="50" width="50" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaveen dinethma" height="50" width="50" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Anfernick B. Díaz" height="50" width="50" /></a>
 <a href="" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="anfernick_05" height="50" width="50" /></a>
 </p>
 
